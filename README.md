@@ -4,6 +4,10 @@ A software for the generation and processing of Smart and Accurate Recording Tra
 
 The code allows to import and process two-photon calcium imaging raster acquisitions, design smart line scanning (SLS) trajectories for faster and more accurate data acquisition and process two-photon calcium imaging SLS acquisitions.
 
+# Usage and documentation
+
+A full description of the software can be found in SmART2P_guide.pdf
+
 # Citation
 
 If you use this code please cite the corresponding papers where original methods appeared (see References below), as well as: 
